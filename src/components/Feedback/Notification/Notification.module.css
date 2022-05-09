@@ -1,0 +1,8 @@
+.title {
+    color: #3e015b;
+    font-weight: 600;
+    line-height: 30px;
+    margin: 1em 0 0.5em 0;
+    position: relative;
+    border-bottom: 1px solid rgba(53,86,129,.3);  
+}
