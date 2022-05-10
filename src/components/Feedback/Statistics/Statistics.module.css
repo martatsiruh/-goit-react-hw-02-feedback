@@ -19,12 +19,20 @@
 
     font-size: 15px;
     letter-spacing: 2px;
-    transition: 0.3s all linear;
+    transition: 0.2s all linear;
 }
 
 
 .items:not(:last-child) {
     margin-bottom: 15px;
+}
+
+.items:hover,
+.items:focus {
+    background-color: #99d3bc;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
 }
 
 .status {
